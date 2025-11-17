@@ -14,6 +14,4 @@ if (!$conn) {
     die("Koneksi Gagal".mysqli_connect_eror());
 }
 
-echo "Koneksi Berhasil!";
-// mysqli_close();
 ?>
